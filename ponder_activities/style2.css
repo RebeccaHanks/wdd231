@@ -1,0 +1,23 @@
+body {
+    background-color: #7f5539;
+    color: #f8f9fa;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+}
+header {
+    background-color: #588157;
+    padding: 4%;
+}
+h2 {
+    border: 3px solid dark;
+    padding: 1%;
+}
+main {
+    padding: 10%;
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: lightgray;
+    color: black;
+    box-shadow: 5px 5px #ccc;
+}
